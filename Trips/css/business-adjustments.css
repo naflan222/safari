@@ -1,0 +1,28 @@
+/* Small content-fit corrections; the original template styles remain unchanged. */
+.site-title{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);margin:0;width:calc(100% - 110px);max-width:600px;text-align:center}
+.site-title h1{font-size:clamp(18px,5vw,30px);line-height:1.15;white-space:nowrap}
+.site-title h1 i{font-size:.9em;margin-left:4px}
+.tours .row{display:flex;flex-wrap:wrap;align-items:stretch}
+.tours .row::before,.tours .row::after{display:none}
+.tours .row>.col{display:flex;margin-left:0}
+.tours .entry{display:flex;flex-direction:column;width:100%;min-width:0}
+.tours .entry>a{display:block}
+.tours .entry img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover}
+.tours .entry .content{display:flex;flex-direction:column;flex:1;min-width:0}
+.tours .entry .content h5{min-height:60px;overflow-wrap:anywhere}
+.tours .entry .content p{overflow-wrap:anywhere}
+.tours .entry .content h6{margin-top:auto;margin-bottom:8px;clear:both;line-height:1.5}
+.tours .entry .content h6 span{float:none;display:inline}
+.tours .entry .content p small{display:block;font-size:10px;line-height:1.5}
+.bike-listings .entry img{object-fit:contain;background:#fff}
+.bike-listings .entry .content h5{min-height:0}
+.bike-listings .entry .content p:last-child{margin-top:auto;padding-top:12px}
+.tours-promote{background-image:linear-gradient(90deg,rgba(0,0,0,.63),rgba(0,0,0,.18)),url('../assets/bikes/tangalle-rental-banner.webp');background-position:center 62%;background-size:cover;overflow:hidden}
+.tours-promote .container{position:relative}
+.tours-promote h4{overflow-wrap:anywhere;line-height:1.25}
+.tours-promote p{max-width:620px;line-height:1.7;white-space:normal}
+.tours-promote .button{display:inline-block;white-space:normal}
+.rental-banner{margin-bottom:24px}
+@media(max-width:380px){.site-title{width:calc(100% - 90px)}.site-title h1{font-size:19px}.tours .entry .content{padding-left:10px;padding-right:10px}.tours .entry .content h5{font-size:16px;line-height:20px;min-height:80px}.bike-listings .entry .content h5{min-height:0}.tours .entry .content h6{font-size:14px}}
+
+.bike-listings .row>.col:only-child{margin-left:auto;margin-right:auto}

@@ -27,3 +27,16 @@ Tour-card imagery: four AI-generated Sri Lankan travel illustrations (heritage, 
 ## Original template design restored
 
 The uploaded Trips template’s CSS, fonts and JavaScript plugins are restored verbatim. Original blue navigation, orange buttons, mobile side panels, hero slider, two-column grids, promo banner and footer are retained. Changes are limited to business content, supplied/generated imagery, navigation destinations and enquiry behavior. Tour details use the template’s original details layout. No custom design stylesheet is loaded.
+
+## Bike imagery and alignment update
+
+Full Ceylon Safari Tours header fitted to mobile width. Equal-height template cards and quote alignment fixed using css/business-adjustments.css; original CSS unchanged.
+
+Tangalle rental banner generated with the built-in image-generation tool: photorealistic three scooters parked on a palm-lined southern Sri Lankan coastal lane, turquoise ocean, warm afternoon light, scooters right, space for heading left, no text or logos. Representative promotional imagery, not a photograph of the actual fleet. Saved as Trips/assets/bikes/tangalle-rental-banner.webp.
+
+Model reference photographs (colours and versions may vary):
+- Honda Dio: https://www.honda2wheelersindia.com/scooter/dio-110
+- TVS Ntorq: https://www.tvsmotor.com/en/lk/our-products/tvs-ntorq125
+- Yamaha RayZR: https://shop.yamaha-motor-india.com/products/buy-rayzr-125-fi-hybrid
+
+Optimised product image margins and sizes for consistent card presentation. Original manufacturer artwork retained.
