@@ -26,3 +26,6 @@
 @media(max-width:380px){.site-title{width:calc(100% - 90px)}.site-title h1{font-size:19px}.tours .entry .content{padding-left:10px;padding-right:10px}.tours .entry .content h5{font-size:16px;line-height:20px;min-height:80px}.bike-listings .entry .content h5{min-height:0}.tours .entry .content h6{font-size:14px}}
 
 .bike-listings .row>.col:only-child{margin-left:auto;margin-right:auto}
+
+/* Supplied travel photos in the template's existing two-column gallery layout. */
+.home-about>.container>p{line-height:1.8;margin-bottom:22px}.home-about .gallery img,.about-page .gallery img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover}.home-about .gallery .row,.about-page .gallery .row{margin-bottom:20px}.about-page .in-details{margin-top:26px}.about-page .in-details h4{margin-bottom:12px}.about-page .gallery{margin-top:24px}
