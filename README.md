@@ -23,3 +23,7 @@ The 5-day route includes an original suggested day order based on the source hig
 Original purchased template documentation and license are retained in their folders.
 
 Tour-card imagery: four AI-generated Sri Lankan travel illustrations (heritage, Galle coast, hill-country tea traditions, rainforest wildlife). These are illustrative composites, not documentary photographs. Prompts recorded in Documentation/tour-artwork-prompts.md.
+
+## Original template design restored
+
+The uploaded Trips template’s CSS, fonts and JavaScript plugins are restored verbatim. Original blue navigation, orange buttons, mobile side panels, hero slider, two-column grids, promo banner and footer are retained. Changes are limited to business content, supplied/generated imagery, navigation destinations and enquiry behavior. Tour details use the template’s original details layout. No custom design stylesheet is loaded.
