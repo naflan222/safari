@@ -40,3 +40,14 @@ Model reference photographs (colours and versions may vary):
 - Yamaha RayZR: https://shop.yamaha-motor-india.com/products/buy-rayzr-125-fi-hybrid
 
 Optimised product image margins and sizes for consistent card presentation. Original manufacturer artwork retained.
+
+## Homepage slideshow scenes
+
+Three AI-generated destination scenes created using the built-in image-generation tool. Existing template slider, dimensions, overlays, headings and buttons are preserved. Assets saved in Trips/assets/slides/.
+
+Prompts: photorealistic premium Sri Lankan travel advertising imagery, wide 3:2, natural lighting and colours, mobile-safe central composition, no words/logos/watermarks.
+- safari.webp: wild Asian elephant herd beside a lake at sunrise, lush grassland, jungle and mist.
+- hills.webp: tea terraces, mountain valleys near Ella and a small red passenger train crossing a distant stone railway viaduct at sunrise.
+- coast.webp: Tangalle-inspired golden crescent beach, coconut palms, turquoise water, tropical headland and warm morning light.
+
+Representative promotional scenes, not documentary photographs or photos of the operator's guests. Original customer photographs remain in the gallery.
