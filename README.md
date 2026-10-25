@@ -21,3 +21,5 @@ Tour route inspiration supplied by the owner, rewritten as suggested routes (all
 The 5-day route includes an original suggested day order based on the source highlights. All routes require final operational confirmation with Ceylon Safari Tours. No affiliation with Tourslanka is claimed. No competitor prices, promises, photos or testimonials are used.
 
 Original purchased template documentation and license are retained in their folders.
+
+Tour-card imagery: four AI-generated Sri Lankan travel illustrations (heritage, Galle coast, hill-country tea traditions, rainforest wildlife). These are illustrative composites, not documentary photographs. Prompts recorded in Documentation/tour-artwork-prompts.md.
